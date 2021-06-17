@@ -1,0 +1,15 @@
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\bin\Debug\netcoreapp3.1\MovieRents.DataAccess.deps.json
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\bin\Debug\netcoreapp3.1\MovieRents.DataAccess.runtimeconfig.json
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\bin\Debug\netcoreapp3.1\MovieRents.DataAccess.runtimeconfig.dev.json
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\bin\Debug\netcoreapp3.1\MovieRents.DataAccess.dll
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\bin\Debug\netcoreapp3.1\MovieRents.DataAccess.pdb
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\bin\Debug\netcoreapp3.1\MovieRents.Domain.dll
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\bin\Debug\netcoreapp3.1\MovieRents.Domain.pdb
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\obj\Debug\netcoreapp3.1\MovieRents.DataAccess.csprojAssemblyReference.cache
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\obj\Debug\netcoreapp3.1\MovieRents.DataAccess.AssemblyInfoInputs.cache
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\obj\Debug\netcoreapp3.1\MovieRents.DataAccess.AssemblyInfo.cs
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\obj\Debug\netcoreapp3.1\MovieRents.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\obj\Debug\netcoreapp3.1\MovieRents.DataAccess.csproj.CopyComplete
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\obj\Debug\netcoreapp3.1\MovieRents.DataAccess.dll
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\obj\Debug\netcoreapp3.1\MovieRents.DataAccess.pdb
+C:\Users\acape\source\repos\MovieRents\MovieRents.DataAccess\obj\Debug\netcoreapp3.1\MovieRents.DataAccess.genruntimeconfig.cache

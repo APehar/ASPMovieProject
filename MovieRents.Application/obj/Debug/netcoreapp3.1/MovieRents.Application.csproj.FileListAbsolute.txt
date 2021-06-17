@@ -1,0 +1,9 @@
+C:\Users\acape\source\repos\MovieRents\MovieRents.Application\bin\Debug\netcoreapp3.1\MovieRents.Application.deps.json
+C:\Users\acape\source\repos\MovieRents\MovieRents.Application\bin\Debug\netcoreapp3.1\MovieRents.Application.dll
+C:\Users\acape\source\repos\MovieRents\MovieRents.Application\bin\Debug\netcoreapp3.1\MovieRents.Application.pdb
+C:\Users\acape\source\repos\MovieRents\MovieRents.Application\obj\Debug\netcoreapp3.1\MovieRents.Application.csprojAssemblyReference.cache
+C:\Users\acape\source\repos\MovieRents\MovieRents.Application\obj\Debug\netcoreapp3.1\MovieRents.Application.AssemblyInfoInputs.cache
+C:\Users\acape\source\repos\MovieRents\MovieRents.Application\obj\Debug\netcoreapp3.1\MovieRents.Application.AssemblyInfo.cs
+C:\Users\acape\source\repos\MovieRents\MovieRents.Application\obj\Debug\netcoreapp3.1\MovieRents.Application.csproj.CoreCompileInputs.cache
+C:\Users\acape\source\repos\MovieRents\MovieRents.Application\obj\Debug\netcoreapp3.1\MovieRents.Application.dll
+C:\Users\acape\source\repos\MovieRents\MovieRents.Application\obj\Debug\netcoreapp3.1\MovieRents.Application.pdb
