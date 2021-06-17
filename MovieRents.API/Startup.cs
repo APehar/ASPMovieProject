@@ -88,22 +88,23 @@ namespace MovieRents.API
             services.AddTransient<CreateUserUseCaseValidator>();
 
             services.AddHttpContextAccessor();
-            services.AddTransient<IApplicationActor, FakeAdminActor>();
-            //services.AddTransient<IApplicationActor>(x =>
-            //{
-            //    var accessor = x.GetService<IHttpContextAccessor>();
+            //Lazni admin actor koji ima prava na sve komande
+            //services.AddTransient<IApplicationActor, FakeAdminActor>();
+            services.AddTransient<IApplicationActor>(x =>
+            {
+                var accessor = x.GetService<IHttpContextAccessor>();
 
-            //    var user = accessor.HttpContext.User;
-            //    if (user.FindFirst("ActorData") == null)
-            //    {
-            //        return new AnonymousActor();
-            //    }
+                var user = accessor.HttpContext.User;
+                if (user.FindFirst("ActorData") == null)
+                {
+                    return new AnonymousActor();
+                }
 
-            //    var actorString = user.FindFirst("ActorData").Value;
+                var actorString = user.FindFirst("ActorData").Value;
 
-            //    var actor = JsonConvert.DeserializeObject<JwtActor>(actorString);
-            //    return actor;
-            //});
+                var actor = JsonConvert.DeserializeObject<JwtActor>(actorString);
+                return actor;
+            });
 
             services.AddTransient<IUseCaseLogger, DataBaseUseCaseLogger>();
             services.AddTransient<ICreateCategoryCommand, CreateCategoryCommand>();
